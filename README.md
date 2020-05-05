@@ -87,7 +87,7 @@ For each week, try to solve as many problems as you can from each category!
 
 - Greedy algorithms
 
-- - [https://leetcode.com/problems/lemonade-change](https://leetcode.com/problems/lemonade-change/description/)
+  - [https://leetcode.com/problems/lemonade-change](https://leetcode.com/problems/lemonade-change/description/)
   - [https://leetcode.com/problems/assign-cookies](https://leetcode.com/problems/assign-cookies/description/)
   - [https://leetcode.com/problems/is-subsequence](https://leetcode.com/problems/is-subsequence/description/)
   - [https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
@@ -95,19 +95,20 @@ For each week, try to solve as many problems as you can from each category!
 
 - Binary search
 
-- - [https://leetcode.com/problems/binary-search](https://leetcode.com/problems/binary-search/description/)
+  - [https://leetcode.com/problems/binary-search](https://leetcode.com/problems/binary-search/description/)
   - [https://leetcode.com/problems/peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
 
 - Sorting
 
-- - [https://leetcode.com/problems/valid-anagram](https://leetcode.com/problems/valid-anagram/description/)
+  - [https://leetcode.com/problems/valid-anagram](https://leetcode.com/problems/valid-anagram/description/)
   - [https://leetcode.com/problems/array-partition-i](https://leetcode.com/problems/array-partition-i/description/)
   - [https://leetcode.com/problems/merge-intervals](https://leetcode.com/problems/merge-intervals/description/)
   - Use sorting, not a multiset (you solved this problem using a multiset last week) [https://leetcode.com/problems/find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
 
 - Recursion and memoization: make sure you use memoization if applicable for the problems below
 
-- - [https://leetcode.com/problems/powx-n](https://leetcode.com/problems/powx-n/description/)
+  * [https://leetcode.com/problems/powx-n](https://leetcode.com/problems/powx-n/description/)
+
   - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
   - [https://leetcode.com/problems/edit-distance](https://leetcode.com/problems/edit-distance/description/)
   - [https://leetcode.com/problems/house-robber-ii](https://leetcode.com/problems/house-robber-ii/description/)
@@ -115,7 +116,7 @@ For each week, try to solve as many problems as you can from each category!
 
 - Dynamic Programming: same problems as above, but use dynamic programming this time
 
-- - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+  - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
   - [https://leetcode.com/problems/edit-distance](https://leetcode.com/problems/edit-distance/description/)
   - [https://leetcode.com/problems/house-robber-ii](https://leetcode.com/problems/house-robber-ii/description/)
   - Do not use a built-in regex for this one: https://leetcode.com/problems/regular-expression-matching/
@@ -124,8 +125,7 @@ For each week, try to solve as many problems as you can from each category!
 
 - Linked lists
 
-- - [https://leetcode.com/problems/reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/description/)
-
+  - [https://leetcode.com/problems/reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/description/)
   - [https://leetcode.com/problems/odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list/description/)
 
   - [https://leetcode.com/problems/reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
@@ -136,25 +136,25 @@ For each week, try to solve as many problems as you can from each category!
 
 - Stacks
 
-- - [https://leetcode.com/problems/baseball-game](https://leetcode.com/problems/baseball-game/description/)
+  - [https://leetcode.com/problems/baseball-game](https://leetcode.com/problems/baseball-game/description/)
   - [https://leetcode.com/problems/next-greater-element-i](https://leetcode.com/problems/next-greater-element-i/description/)
   - [https://leetcode.com/problems/valid-parentheses](https://leetcode.com/problems/valid-parentheses/description/)
   - [https://leetcode.com/problems/score-of-parentheses](https://leetcode.com/problems/score-of-parentheses/description/)
 
 - Queues
 
-- - https://leetcode.com/problems/implement-stack-using-queues/
+  - https://leetcode.com/problems/implement-stack-using-queues/
   - https://leetcode.com/problems/implement-queue-using-stacks/
   - https://leetcode.com/problems/rotate-array
 
 - Heaps
 
-- - [https://leetcode.com/problems/top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+  - [https://leetcode.com/problems/top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
   - https://leetcode.com/problems/merge-k-sorted-lists
 
 - Combinatorial generation
 
-- - [https://leetcode.com/problems/subsets](https://leetcode.com/problems/subsets/description/)
+  - [https://leetcode.com/problems/subsets](https://leetcode.com/problems/subsets/description/)
   - [https://leetcode.com/problems/permutations](https://leetcode.com/problems/permutations/description/)
   - [https://leetcode.com/problems/combinations](https://leetcode.com/problems/combinations/description/)
   - [https://leetcode.com/problems/generate-parentheses](https://leetcode.com/problems/generate-parentheses/description/)
@@ -162,7 +162,7 @@ For each week, try to solve as many problems as you can from each category!
 
 - Backtracking
 
-- - [https://leetcode.com/problems/combination-sum](https://leetcode.com/problems/combination-sum/description/)
+  - [https://leetcode.com/problems/combination-sum](https://leetcode.com/problems/combination-sum/description/)
   - [https://leetcode.com/problems/partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
   - [https://leetcode.com/problems/partition-to-k-equal-sum-subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)
   - [https://leetcode.com/problems/sudoku-solver](https://leetcode.com/problems/sudoku-solver/description/)
@@ -171,7 +171,7 @@ For each week, try to solve as many problems as you can from each category!
 
 - Trees
 
-- - [https://leetcode.com/problems/n-ary-tree-postorder-traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)
+  - [https://leetcode.com/problems/n-ary-tree-postorder-traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)
   - [https://leetcode.com/problems/leaf-similar-trees](https://leetcode.com/problems/leaf-similar-trees/description/)
   - [https://leetcode.com/problems/same-tree](https://leetcode.com/problems/same-tree/description/)
   - [https://leetcode.com/problems/sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
@@ -181,7 +181,7 @@ For each week, try to solve as many problems as you can from each category!
 
 - Graphs
 
-- - [https://leetcode.com/problems/course-schedule](https://leetcode.com/problems/course-schedule/description/)
+  - [https://leetcode.com/problems/course-schedule](https://leetcode.com/problems/course-schedule/description/)
   - [https://leetcode.com/problems/island-perimeter](https://leetcode.com/problems/island-perimeter/description/)
   - [https://leetcode.com/problems/is-graph-bipartite](https://leetcode.com/problems/is-graph-bipartite/description/)
   - [https://leetcode.com/problems/word-search](https://leetcode.com/problems/word-search/description/)
@@ -226,13 +226,13 @@ For each week, try to solve as many problems as you can from each category!
 
 - Python
 
-- - https://www.tutorialspoint.com/python/python_multithreading.htm
+  - https://www.tutorialspoint.com/python/python_multithreading.htm
   - https://medium.com/@nbosco/multithreading-vs-multiprocessing-in-python-c7dc88b50b5b
   - https://docs.python.org/3/c-api/init.html#thread-state-and-the-global-interpreter-lock
 
 - Java
 
-- - https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/
+  - https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/
   - https://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/
   - https://winterbe.com/posts/2015/05/22/java8-concurrency-tutorial-atomic-concurrent-map-examples/	
 
